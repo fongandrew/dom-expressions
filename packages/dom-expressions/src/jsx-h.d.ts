@@ -827,7 +827,7 @@ export namespace JSX {
     about?: FunctionMaybe<string>;
     datatype?: FunctionMaybe<string>;
     inlist?: FunctionMaybe<any>;
-    popover?: FunctionMaybe<boolean | "manual" | "auto">;
+    popover?: FunctionMaybe<"" | "manual" | "auto">;
     prefix?: FunctionMaybe<string>;
     property?: FunctionMaybe<string>;
     resource?: FunctionMaybe<string>;

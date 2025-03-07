@@ -908,7 +908,7 @@ export namespace JSX {
     about?: string | undefined;
     datatype?: string | undefined;
     inlist?: any | undefined;
-    popover?: boolean | "manual" | "auto" | undefined;
+    popover?: "" | "manual" | "auto" | undefined;
     prefix?: string | undefined;
     property?: string | undefined;
     resource?: string | undefined;
